@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.png" alt="Jeremy Madonna Header" width="100%"/>
+  <img src="./assets/header.png" alt="Jeremy Madonna Header" width="80%"/>
 </div>
 
 <div align="center">
