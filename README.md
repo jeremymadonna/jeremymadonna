@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6B46C1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Fullstack+Developer+%7C+AI+Developer;Python+Developer+%7C+Data+Analyst;Transforming+Data+into+Actionable+Insights)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B46C1&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+Intelligent+Solutions+with+AI+%26+Data;Fullstack+%7C+AI+%7C+Python+%7C+Analytics;From+Teaching+Data+Science+to+Creating+It)](https://git.io/typing-svg)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=jeremymadonna&color=blueviolet&style=for-the-badge)
   
