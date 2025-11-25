@@ -18,7 +18,7 @@
 
 I'm that data enthusiast who gets genuinely excited about finding patterns others miss. With a unique background teaching advanced data science and computer science to postgraduate students, I've mastered the art of making complex technical concepts accessible and actionable.
 
-Currently pursuing **Business Analytics** at Conestoga College while exploring opportunities to build AI-powered solutions that don't just work—they transform how teams operate.
+Recently completed **Business Analytics** at Conestoga College (August 2024) and now exploring opportunities to build AI-powered solutions that don't just work—they transform how teams operate.
 
 💡 **Fun Fact:** I taught Data Visualization and Python to postgraduate students before becoming a student again. Talk about full circle! 🎓
 
