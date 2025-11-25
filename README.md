@@ -10,9 +10,9 @@
 
 ---
 
-# Hey there! 👋 I'm Jeremy Madonna
+# Jeremy Madonna
 
-## 🌟 What I'm All About
+## About Me
 
 **Turning complex data into stories that drive decisions**
 
@@ -20,55 +20,55 @@ I'm that data enthusiast who gets genuinely excited about finding patterns other
 
 Recently completed **Business Analytics** at Conestoga College (August 2025) and now exploring opportunities to build AI-powered solutions that don't just work—they transform how teams operate.
 
-💡 **Fun Fact:** I taught Data Visualization and Python to postgraduate students before becoming a student again. Talk about full circle! 🎓
+**Note:** I taught Data Visualization and Python to postgraduate students before becoming a student again. Talk about full circle!
 
 ---
 
-## 🎯 My Superpowers
+## Core Competencies
 
-### 🤖 AI Developer
+### AI Developer
 - Building intelligent systems that feel magical
 - Leveraging LLMs and machine learning for real-world impact
 - Creating multi-agent solutions that automate the impossible
 
-### 📊 Data Analyst
+### Data Analyst
 - Extracting insights from messy, complex datasets
 - Power BI & Tableau dashboards that tell compelling stories
 - Statistical analysis that drives business decisions
 
-### 🐍 Python Developer
+### Python Developer
 - Pandas, NumPy, and data manipulation wizardry
 - API design and backend development
 - Automation scripts that save hours of manual work
 
-### 🌐 Fullstack Developer
+### Fullstack Developer
 - Building end-to-end applications from database to UI
 - React, Node.js, and modern web technologies
 - Clean, maintainable code that scales
 
 ---
 
-## 🎪 Cool Stuff I've Built
+## Key Projects
 
-### 📚 Interactive Data Visualization Platform
+### Interactive Data Visualization Platform
 Designed and taught comprehensive curriculum on data visualization, helping students transform raw data into actionable insights.
 **Impact:** Enhanced practical skills for 100+ postgraduate students
 
-### 🐍 Python Automation Framework
+### Python Automation Framework
 Created automation tools and scripts for teaching shell scripting and Python programming.
 **Impact:** Streamlined lab sessions and improved student learning outcomes
 
-### 🔗 RESTful API Design Projects
+### RESTful API Design Projects
 Led hands-on sessions teaching API design principles and implementation.
 **Impact:** Students built production-ready APIs from scratch
 
-### 📊 Database Management Solutions
+### Database Management Solutions
 Specialized in MySQL, MS-SQL, and MongoDB implementations for real-world scenarios.
 **Impact:** Bridged the gap between theory and industry practices
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -117,7 +117,7 @@ Specialized in MySQL, MS-SQL, and MongoDB implementations for real-world scenari
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeremymadonna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6B46C1&icon_color=EC4899&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
@@ -134,40 +134,40 @@ Specialized in MySQL, MS-SQL, and MongoDB implementations for real-world scenari
 
 ---
 
-## 💼 Professional Journey
+## Professional Experience
 
-### 🎓 Assistant Professor | Holy Cross College
+### Assistant Professor | Holy Cross College
 **Trichy, India** | *June 2022 – Aug 2023*
 
 Led the charge in shaping the next generation of tech talent:
 
-- 📚 **Curriculum Innovation** - Designed and delivered cutting-edge courses in Web Development, Python Scripting, Shell Scripting, API Design, and Data Visualization
-- 🔬 **Research Mentorship** - Supervised graduate research projects, contributing to academic publications in computer science
-- 💡 **Student Success** - Provided personalized career guidance, helping students align their skills with market demands
-- 🎯 **Assessment Excellence** - Managed end-to-end examination processes ensuring rigorous evaluation of student proficiency
-- 🤝 **Faculty Leadership** - Actively participated in curriculum committees, driving educational innovation
+- **Curriculum Innovation** - Designed and delivered cutting-edge courses in Web Development, Python Scripting, Shell Scripting, API Design, and Data Visualization
+- **Research Mentorship** - Supervised graduate research projects, contributing to academic publications in computer science
+- **Student Success** - Provided personalized career guidance, helping students align their skills with market demands
+- **Assessment Excellence** - Managed end-to-end examination processes ensuring rigorous evaluation of student proficiency
+- **Faculty Leadership** - Actively participated in curriculum committees, driving educational innovation
 
 **Impact:** Empowered 100+ students with practical skills that launched their tech careers
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-🎓 **Business Analytics** | Conestoga College, Ontario | *Jan 2025 – Aug 2025*  
-*Currently pursuing - Focus on advanced analytics and business intelligence*
+**Business Analytics** | Conestoga College, Ontario | *Jan 2025 – Aug 2025*  
+*Completed - Focus on advanced analytics and business intelligence*
 
-🎓 **Master's in Computer Applications** | Bharathidasan University | *Aug 2020 – Apr 2022*  
+**Master's in Computer Applications** | Bharathidasan University | *Aug 2020 – Apr 2022*  
 *Specialization: Big Data & Data Analytics*
 
-🎓 **Bachelor's in Computer Applications** | Bharathidasan University | *June 2017 – July 2020*  
+**Bachelor's in Computer Applications** | Bharathidasan University | *June 2017 – July 2020*  
 *Specialization: Database Management Systems*
 
-🏆 **Google Career Certificate – Data Analyst** | *June 2024*  
+**Google Career Certificate – Data Analyst** | *June 2024*  
 *Professional certification in data analysis and visualization*
 
 ---
 
-## 🚀 What I'm Up To
+## Current Focus
 
 ```javascript
 const currentFocus = {
@@ -196,24 +196,23 @@ const currentFocus = {
   ]
 };
 
-console.log("Always learning, always building! 🚀");
+console.log("Always learning, always building!");
 ```
 
 ---
 
-## 🌈 Life Beyond Code
+## Beyond Technology
 
 When I'm not wrangling data or building applications:
 
-- 🎯 **Mentoring** - Helping aspiring developers and data analysts navigate their career journeys
-- 📚 **Learning** - Exploring the latest in AI research and experimenting with new frameworks
-- 🎓 **Teaching** - Sharing knowledge and making complex concepts accessible
-- ☕ **Coffee Enthusiast** - Because great code runs on great coffee!
-- 🌍 **Global Perspective** - From teaching in India to studying in Canada - embracing diverse experiences
+- **Mentoring** - Helping aspiring developers and data analysts navigate their career journeys
+- **Continuous Learning** - Exploring the latest in AI research and experimenting with new frameworks
+- **Teaching** - Sharing knowledge and making complex concepts accessible
+- **Global Perspective** - From teaching in India to studying in Canada - embracing diverse experiences
 
 ---
 
-## 📬 Let's Connect!
+## Contact
 
 Ready to collaborate on something amazing?
 
@@ -225,13 +224,13 @@ Ready to collaborate on something amazing?
   
 </div>
 
-📍 **Based in Waterloo, ON, Canada** 🇨🇦
+**Location:** Waterloo, ON, Canada
 
 ---
 
 <div align="center">
   
-  ### 💭 Quote of the Day
+  ### Quote of the Day
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
@@ -241,8 +240,8 @@ Ready to collaborate on something amazing?
   
   ---
   
-  **⭐️ If you found my profile interesting, don't forget to star some repos! ⭐️**
+  **If you found my profile interesting, don't forget to star some repos!**
   
-  **Let's build something extraordinary together!** 🚀
+  **Let's build something extraordinary together!**
   
 </div>
